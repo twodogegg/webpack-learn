@@ -2,4 +2,4 @@
 
 - [Introduction](README.md)
 
-- [Test](content/TEST)
+- [Test](content/TEST.MD)
