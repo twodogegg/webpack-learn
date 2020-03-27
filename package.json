@@ -1,0 +1,25 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twodogegg/webpack-learn.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twodogegg/webpack-learn/issues"
+  },
+  "homepage": "https://github.com/twodogegg/webpack-learn#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
