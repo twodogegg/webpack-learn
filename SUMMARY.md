@@ -1,5 +1,3 @@
-# Summary
-
 - [Introduction](README.md)
 
-- [Test](content/TEST.MD)
+* [Test](content/TEST.MD)
